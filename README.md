@@ -6,3 +6,6 @@
 # わかりやすいリンク
 webGlについての説明がまとまっている
 https://habit-life.com/?p=1950
+
+# 使用アセット
+https://kenney.nl/assets/animal-pack
