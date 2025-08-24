@@ -1844,7 +1844,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -3379,6 +3379,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NextSceneButtonPrefab
       objectReference: {fileID: 0}
+    - target: {fileID: 3890943030868304496, guid: 8ab5f9a0a708f304b9ea55462edb3482, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5419548330980809637, guid: 8ab5f9a0a708f304b9ea55462edb3482, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.56692
@@ -3829,7 +3833,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
